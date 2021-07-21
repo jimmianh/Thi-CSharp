@@ -1,0 +1,6 @@
+C:\Users\DELL\RiderProjects\thiCsharp\thiCsharp\bin\Debug\thiCsharp.exe
+C:\Users\DELL\RiderProjects\thiCsharp\thiCsharp\bin\Debug\thiCsharp.pdb
+C:\Users\DELL\RiderProjects\thiCsharp\thiCsharp\obj\Debug\thiCsharp.csproj.AssemblyReference.cache
+C:\Users\DELL\RiderProjects\thiCsharp\thiCsharp\obj\Debug\thiCsharp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\RiderProjects\thiCsharp\thiCsharp\obj\Debug\thiCsharp.exe
+C:\Users\DELL\RiderProjects\thiCsharp\thiCsharp\obj\Debug\thiCsharp.pdb
